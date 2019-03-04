@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "243759268556",
+    "firebase_url": "https://worldwidewifi.firebaseio.com",
+    "project_id": "worldwidewifi",
+    "storage_bucket": "worldwidewifi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243759268556:android:46a431392226f8bf",
+        "android_client_info": {
+          "package_name": "com.example.interactivitydemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243759268556-7qln2unphhsjauq4k8ea5u8nfb398q7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.interactivitydemo",
+            "certificate_hash": "cbfb029d427a828f64fbbd5aaedd17d5d406afcb"
+          }
+        },
+        {
+          "client_id": "243759268556-bciudm7ibcv7ds6a6618rg9idv45a98k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOksdCyMnbox8joRG3r_qM3gBOCwcaG30"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243759268556-bciudm7ibcv7ds6a6618rg9idv45a98k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
